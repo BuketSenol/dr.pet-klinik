@@ -1,0 +1,138 @@
+@media screen and (max-width:1184px) {
+  .contact-form .your-message .submit {
+    margin-top: 20px;
+  }
+
+}
+
+@media screen and (max-width:990px) {
+
+  .contact-form .your-message textarea {
+    margin-top: 20px;
+  }
+
+  #contact {
+    padding-bottom: 500px;
+  }
+
+}
+
+@media screen and (max-width:876px) {
+  .card-profile {
+    height: 28rem;
+  }
+
+  #doctors {
+    height: 70rem;
+  }
+}
+
+
+@media screen and (max-width:768px) {
+  #doctors {
+    height: 97rem;
+  }
+}
+
+
+
+@media screen and (max-width:576px) {
+  .contact-box {
+    text-align: center;
+  }
+
+  .contact-form .form .ad input {
+    width: 100%;
+  }
+
+  .contact-form .your-message textarea {
+
+    height: 153px;
+    width: 184px;
+  }
+
+  #contact h3 {
+    padding-left: 20px;
+  }
+
+}
+
+@media screen and (max-width:575px) {
+  #doctors {
+    height: 180rem;
+  }
+}
+
+@media screen and (max-width:530px) {
+  #contact {
+    padding-bottom: 100px;
+  }
+
+  #contact .img1 {
+    display: none;
+  }
+
+  .img2 {
+    display: block;
+    position: relative;
+    z-index: 2;
+  }
+
+  .contact-box {
+    width: 120%;
+    position: relative;
+    top: -38px;
+    left: 80px;
+    box-shadow: 4px 4px 10px 10px rgb(102, 226, 102);
+    flex-wrap: wrap;
+  }
+
+  .contact-adress {
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: max-content;
+
+  }
+
+}
+
+@media screen and (max-width:440px) {
+  .services-title-img {
+    width: 250px;
+    height: 250px;
+  }
+
+}
+
+@media screen and (max-width:386px) {
+  .services-title-img {
+    width: 220px;
+    height: 220px;
+  }
+
+  #services-title h2 {
+    font-size: 2rem;
+  }
+
+}
+
+@media screen and (max-width:339px) {
+  .logo-box {
+    margin: auto;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .contact-box {
+    left: 40px;
+    width: 130%;
+
+  }
+
+  .services-title-img {
+    width: 200px;
+    height: 200px;
+  }
+
+}
